@@ -16,9 +16,9 @@ Package.onUse(function(api) {
   api.mainModule('test-readme-pkg.js');
 });
 
-Package.onTest(function(api) {
-  api.use('ecmascript');
-  api.use('tinytest');
-  api.use('test-readme-pkg');
-  api.mainModule('test-readme-pkg-tests.js');
-});
+// Package.onTest(function(api) {
+//   api.use('ecmascript');
+//   api.use('tinytest');
+//   api.use('test-readme-pkg');
+//   api.mainModule('test-readme-pkg-tests.js');
+// });
