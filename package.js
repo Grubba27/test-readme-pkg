@@ -1,6 +1,6 @@
 Package.describe({
   name: 'grubba:test-readme-pkg',
-  version: '0.0.4',
+  version: '0.0.5',
   // Brief, one-line summary of the package.
   summary: 'Bruh is a test',
   // URL to the Git repository containing the source code for this package.
