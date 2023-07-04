@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'test-readme-pkg',
+  name: 'grubba:test-readme-pkg',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Bruh is a test',
