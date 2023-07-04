@@ -1,13 +1,14 @@
 Package.describe({
   name: 'grubba:test-readme-pkg',
-  version: '0.0.2',
+  version: '0.0.4',
   // Brief, one-line summary of the package.
   summary: 'Bruh is a test',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/Grubba27/test-readme-pkg',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
-  documentation: 'README.md'
+  documentation: 'README.md',
+  depracated: "Is not working"
 });
 
 Package.onUse(function(api) {
